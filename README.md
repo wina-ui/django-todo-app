@@ -2,7 +2,7 @@
 
 **Tutorial**: [Deploying Django Apps with Docker: A Step-by-Step Guide](https://betterstack.com/community/guides/scaling-python/dockerize-django/)
 
-![Django todo app screenshot](screenshot.png)
+![Django todo app screenshot](../mini-project-team-four/screenshot.png)
 
 ## 🟢 Prerequisites
 
@@ -27,5 +27,5 @@ git clone https://github.com/<username>/django-todo-app
 
 ## ⚖ License
 
-The code used in this project and in the linked tutorial are licensed under the [Apache License, Version 2.0](LICENSE).
+The code used in this project and in the linked tutorial are licensed under the [Apache License, Version 2.0](../mini-project-team-four/LICENSE).
 
